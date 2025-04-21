@@ -15,6 +15,10 @@
 [doi-img]: https://zenodo.org/badge/447176402.svg
 [doi-url]: https://zenodo.org/badge/latestdoi/447176402
 
+## ⚠️ Deprecated Package
+
+This package is currently deprecated and no further maintenance or updates are planned. If you are interested in reviving or maintaining this package, feel free to reach out — we’d be happy to discuss or support such efforts.
+
 ## How to Cite
 
 If you use KnetNLPModels.jl in your work, please cite using the format given in [`CITATION.bib`](CITATION.bib).
